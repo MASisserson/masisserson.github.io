@@ -226,7 +226,7 @@ a:hover {
 
 strong,
 b {
-  color: #3c4bcb;
+  color: #a3cef1;
   font-weight: 700;
 }
 
@@ -246,7 +246,7 @@ h4,
 h5,
 h6 {
   color: #3c4bcb;
-  font-weight: 700;
+  font-weight: 900;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
 }
@@ -2050,7 +2050,7 @@ input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   background: #989898;
   border-color: #989898;
-  color: #ffffff;
+  color: ##d7d9b1;
   content: "\f00c";
 }
 
@@ -2719,7 +2719,7 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-  background-color: #cbe8f6;
+  background-color: #6096ba;
   color: #ffffff !important;
 }
 
@@ -2734,7 +2734,7 @@ input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-  background-color: #39c29d;
+  background-color: #274c77;
 }
 
 input[type="submit"].disabled,
@@ -2802,7 +2802,7 @@ input[type="button"]:disabled,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #cbe8f6;
+  background: #6096ba;
   color: #ffffff;
   height: 100%;
   overflow-y: auto;
@@ -2819,7 +2819,7 @@ input[type="button"]:disabled,
 #header h4,
 #header h5,
 #header h6 {
-  color: #edf7fc;
+  color: #6096ba;
 }
 
 #header h1 a,
@@ -2832,7 +2832,7 @@ input[type="button"]:disabled,
 }
 
 #header header p {
-  color: #b7eadc;
+  color: #6096ba;
 }
 
 #header a {
@@ -2863,7 +2863,7 @@ input[type="button"]:disabled,
 }
 
 #header > header p {
-  color: #3c4bcb;
+  color: #a3cef1;
   font-style: italic;
   margin: 1em 0 0 0;
 }
@@ -2892,7 +2892,7 @@ input[type="button"]:disabled,
 }
 
 .shadowed {
-  box-shadow: -2px 2px 40px #edf7fc;
+  box-shadow: -2px 2px 40px #6096ba;
 }
 
 #header > nav {
@@ -2926,7 +2926,7 @@ input[type="button"]:disabled,
 }
 
 #header > nav ul li a.active {
-  background: #fff;
+  background: #3c4bcb;
   color: #9dd1f1 !important;
 }
 
